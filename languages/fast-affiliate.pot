@@ -1,0 +1,342 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-02 12:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: includes/fast-affiliate-post.php:51 includes/fast-affiliate-post.php:92
+#: includes/fast-affiliate-post.php:164 includes/fast-affiliate-post.php:206
+#: includes/fast-affiliate-widget.php:68 includes/fast-affiliate-widget.php:92
+msgid "See Offer"
+msgstr ""
+
+#: admin/fast-affiliate-effiliation.php:51
+msgid "Effiliation parameters"
+msgstr ""
+
+#: admin/fast-affiliate-effiliation.php:59
+msgid "Effiliation API Key"
+msgstr ""
+
+#: admin/fast-affiliate-effiliation.php:62 admin/fast-affiliate-cj.php:66
+#: admin/fast-affiliate-general-config.php:27
+#: admin/fast-affiliate-affilinet.php:79 admin/fast-affiliate-amazon.php:132
+#: admin/fast-affiliate-tradedoubler.php:56 admin/fast-affiliate-ebay.php:132
+msgid "Save Changes"
+msgstr ""
+
+#: admin/fast-affiliate-effiliation.php:64
+#: admin/fast-affiliate-tradedoubler.php:53
+msgid "How to find this key ?"
+msgstr ""
+
+#: admin/fast-affiliate-effiliation.php:69 admin/fast-affiliate-cj.php:70
+#: admin/fast-affiliate-affilinet.php:83 admin/fast-affiliate-amazon.php:136
+#: admin/fast-affiliate-tradedoubler.php:60 admin/fast-affiliate-ebay.php:136
+msgid "Programs found for this affiliate platform"
+msgstr ""
+
+#: admin/fast-affiliate-effiliation.php:80 admin/fast-affiliate-cj.php:79
+#: admin/fast-affiliate-amazon.php:146 admin/fast-affiliate-ebay.php:146
+msgid "Company"
+msgstr ""
+
+#: admin/fast-affiliate-effiliation.php:80
+msgid "Name of the program"
+msgstr ""
+
+#: admin/fast-affiliate-effiliation.php:80 admin/fast-affiliate-cj.php:79
+#: admin/fast-affiliate-affilinet.php:92 admin/fast-affiliate-amazon.php:146
+#: admin/fast-affiliate-tradedoubler.php:69 admin/fast-affiliate-ebay.php:146
+msgid "Logo"
+msgstr ""
+
+#: admin/fast-affiliate-post-metabox.php:56
+#: admin/fast-affiliate-post-metabox.php:85
+msgid "Shortcode of the announce"
+msgstr ""
+
+#: admin/fast-affiliate-post-metabox.php:56
+#: admin/fast-affiliate-post-metabox.php:85
+msgid "Copy in clipboard"
+msgstr ""
+
+#: admin/fast-affiliate-post-metabox.php:326
+msgid "Image"
+msgstr ""
+
+#: admin/fast-affiliate-post-metabox.php:327
+msgid "Product name"
+msgstr ""
+
+#: admin/fast-affiliate-post-metabox.php:328
+msgid "Price"
+msgstr ""
+
+#: admin/fast-affiliate-post-metabox.php:329 admin/fast-affiliate-stock.php:4
+#: admin/class-fast-affiliate-admin.php:134
+#: admin/class-fast-affiliate-admin.php:134
+msgid "Stock"
+msgstr ""
+
+#: admin/fast-affiliate-post-metabox.php:340
+msgid "Yes"
+msgstr ""
+
+#: admin/fast-affiliate-post-metabox.php:343
+msgid "No"
+msgstr ""
+
+#: admin/fast-affiliate-post-metabox.php:377
+msgid "Selected products"
+msgstr ""
+
+#: admin/fast-affiliate-post-metabox.php:378
+msgid "Search for products"
+msgstr ""
+
+#: admin/fast-affiliate-post-metabox.php:379
+msgid "Quick link"
+msgstr ""
+
+#: admin/fast-affiliate-post-metabox.php:383
+msgid "Update"
+msgstr ""
+
+#: admin/fast-affiliate-post-metabox.php:392
+msgid "Keyword"
+msgstr ""
+
+#: admin/fast-affiliate-post-metabox.php:394
+msgid "Find"
+msgstr ""
+
+#: admin/fast-affiliate-post-metabox.php:395
+msgid "Include in post"
+msgstr ""
+
+#: admin/fast-affiliate-post-metabox.php:405
+msgid "Quick links are not stock management"
+msgstr ""
+
+#: admin/fast-affiliate-post-metabox.php:406
+msgid "Quick link url"
+msgstr ""
+
+#: admin/fast-affiliate-post-metabox.php:409
+msgid "Quick link name"
+msgstr ""
+
+#: admin/fast-affiliate-post-metabox.php:412
+msgid "Program"
+msgstr ""
+
+#: admin/fast-affiliate-post-metabox.php:421
+msgid "Add to post"
+msgstr ""
+
+#: admin/fast-affiliate-cj.php:48
+msgid "CJ parameters"
+msgstr ""
+
+#: admin/fast-affiliate-cj.php:50
+msgid "Site id"
+msgstr ""
+
+#: admin/fast-affiliate-cj.php:58
+msgid "Developper key"
+msgstr ""
+
+#: admin/fast-affiliate-cj.php:79 admin/fast-affiliate-affilinet.php:92
+#: admin/fast-affiliate-amazon.php:146 admin/fast-affiliate-tradedoubler.php:69
+#: admin/fast-affiliate-ebay.php:146
+msgid "Program name"
+msgstr ""
+
+#: admin/fast-affiliate-general-config.php:12
+#: admin/class-fast-affiliate-admin.php:133
+#: admin/class-fast-affiliate-admin.php:133
+#: admin/class-fast-affiliate-admin.php:149
+msgid "Configuration"
+msgstr ""
+
+#: admin/fast-affiliate-general-config.php:16
+msgid "Show price"
+msgstr ""
+
+#: admin/fast-affiliate-performance.php:4
+#: admin/class-fast-affiliate-admin.php:135
+#: admin/class-fast-affiliate-admin.php:135
+msgid "Performance"
+msgstr ""
+
+#: admin/fast-affiliate-performance.php:10
+msgid "Performance of your affiliates links"
+msgstr ""
+
+#: admin/fast-affiliate-performance.php:13 admin/fast-affiliate-stock.php:16
+msgid "Product"
+msgstr ""
+
+#: admin/fast-affiliate-performance.php:13 admin/fast-affiliate-stock.php:16
+msgid "Post"
+msgstr ""
+
+#: admin/fast-affiliate-performance.php:13
+msgid "Origin"
+msgstr ""
+
+#: admin/fast-affiliate-performance.php:13
+msgid "Number of clicks"
+msgstr ""
+
+#: admin/fast-affiliate-performance.php:13
+msgid "Number of views"
+msgstr ""
+
+#: admin/fast-affiliate-performance.php:13
+msgid "Conversion rate %"
+msgstr ""
+
+#: admin/fast-affiliate-performance.php:57
+msgid "No clicks"
+msgstr ""
+
+#: admin/fast-affiliate-stock.php:13
+msgid "States of your affiliates links"
+msgstr ""
+
+#: admin/fast-affiliate-stock.php:16
+msgid "Availability"
+msgstr ""
+
+#: admin/fast-affiliate-stock.php:33 admin/fast-affiliate-stock.php:40
+msgid "Not Available"
+msgstr ""
+
+#: admin/fast-affiliate-stock.php:37
+msgid "Available"
+msgstr ""
+
+#: admin/class-fast-affiliate-admin.php:154
+msgid "general"
+msgstr ""
+
+#: admin/class-fast-affiliate-admin.php:155
+msgid "effiliation"
+msgstr ""
+
+#: admin/class-fast-affiliate-admin.php:156
+msgid "amazon"
+msgstr ""
+
+#: admin/class-fast-affiliate-admin.php:157
+msgid "ebay"
+msgstr ""
+
+#: admin/class-fast-affiliate-admin.php:158
+msgid "tradedoubler"
+msgstr ""
+
+#: admin/class-fast-affiliate-admin.php:159
+msgid "affilinet"
+msgstr ""
+
+#: admin/class-fast-affiliate-admin.php:160
+msgid "cj"
+msgstr ""
+
+#: admin/fast-affiliate-affilinet.php:51
+msgid "Affilinet parameters"
+msgstr ""
+
+#: admin/fast-affiliate-affilinet.php:53
+msgid "Affilinet Publisher Password"
+msgstr ""
+
+#: admin/fast-affiliate-affilinet.php:61
+msgid "Affilinet Products Password"
+msgstr ""
+
+#: admin/fast-affiliate-affilinet.php:69
+msgid "Affilinet Publisher id"
+msgstr ""
+
+#: admin/fast-affiliate-amazon.php:53
+msgid "Amazon parameters"
+msgstr ""
+
+#: admin/fast-affiliate-amazon.php:55
+msgid "Amazon API key"
+msgstr ""
+
+#: admin/fast-affiliate-amazon.php:62
+msgid "How to find those keys ?"
+msgstr ""
+
+#: admin/fast-affiliate-amazon.php:65
+msgid "Amazon Secret key"
+msgstr ""
+
+#: admin/fast-affiliate-amazon.php:73
+msgid "Amazon tracking id"
+msgstr ""
+
+#: admin/fast-affiliate-amazon.php:81
+msgid "Amazon Country"
+msgstr ""
+
+#: admin/fast-affiliate-tradedoubler.php:44
+msgid "tradeDoubler parameters"
+msgstr ""
+
+#: admin/fast-affiliate-tradedoubler.php:46
+msgid "TradeDoubler Products Token"
+msgstr ""
+
+#: admin/fast-affiliate-ebay.php:53
+msgid "eBay parameters"
+msgstr ""
+
+#: admin/fast-affiliate-ebay.php:55
+msgid "eBay appId"
+msgstr ""
+
+#: admin/fast-affiliate-ebay.php:65
+msgid "eBay Campaing Id"
+msgstr ""
+
+#: admin/fast-affiliate-ebay.php:73
+msgid "eBay Custom Id"
+msgstr ""
+
+#: admin/fast-affiliate-ebay.php:81
+msgid "eBay Country"
+msgstr ""
+
+#. Name of the plugin
+msgid "Fast Affiliate"
+msgstr ""
+
+#. Description of the plugin
+msgid "Choose and place your affiliate links FAST !"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://fast-affiliate.trencube.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "J. De La O & G. Lebret"
+msgstr ""

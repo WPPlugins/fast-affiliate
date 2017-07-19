@@ -1,0 +1,303 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ /**
+ * CSS of the offer at the end of the article
+ */
+ .fast_affiliate_product{
+	display: block;
+	vertical-align: middle;
+	box-sizing: border-box;
+	border-style:solid;
+	border-color:#f2f2f2;
+	background-color: #f9f9f9;
+	border-width: 1px;
+    border-radius: 4px;
+    -webkit-transform: perspective(1px) translateZ(0);
+  	transform: perspective(1px) translateZ(0);
+  	box-shadow: 0 0 1px transparent;
+	webkit-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+ 	webkit-transition-property: box-shadow;
+ 	transition-property: box-shadow;	
+}
+
+.fast_affiliate_product:hover{
+	box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
+	font-weight: bold;
+}
+
+.fast_affiliate_product a{
+	display: block;
+	vertical-align:middle;
+}
+
+.fast_affiliate_left_column{
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;
+	width: 15%;
+	height: 100%;
+}
+
+.fast_affiliate_left_column p {
+	display : inline-block;
+	height: 100%;
+	margin-bottom:0px!important;
+}
+
+.fast_affiliate_left_column p img {
+	display : inline-block;
+	max-height: 90px;
+	max-width: 90px;
+	margin-bottom:0px;
+}
+
+.fast_affiliate_middle_column{
+	display: inline-block;
+	vertical-align:middle;
+	width: 60%;
+}
+
+.fast_affiliate_middle_column p {
+	margin-bottom:0px!important;
+	color: #000000;
+	font-family: "Verdana", "Geneva", "sans-serif";
+	font-size: 13px!important;
+}
+
+.fast_affiliate_middle_column :hover{
+	font-weight: bold;
+}
+
+.fast_affiliate_right_column{
+	display: inline-block;
+	width: 25%;
+	height: 100%;
+	vertical-align:middle;
+}
+
+.fast_affiliate_right_column :hover{
+	font-weight: bold;
+}
+
+.fast_affiliate_right_column span {
+	display: inline-block;
+	margin:auto;
+	width: 100%;
+	/*vertical-align:middle;*/
+}
+
+.fast_affiliate_right_column img{
+	display:inline-block;
+	margin:auto;
+	margin-bottom: 0px!important;
+	max-height: 30px;
+}
+
+.fast_affiliate_button_offer{
+	/*display: inline-block;*/
+	color: #fff!important;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+    padding: 3px 6px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    user-select: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+ /**
+ * CSS of the widget
+ */
+.fast_affiliate_widget_product{
+	display: block;
+	vertical-align:middle;
+	width: 100%;
+	box-sizing: border-box;
+	border-width:0px;
+	border-style:solid;
+	border-color:#f2f2f2;
+	background-color: #f9f9f9;
+	border-width: 1px;
+    border-radius: 4px;
+    -webkit-transform: perspective(1px) translateZ(0);
+  	transform: perspective(1px) translateZ(0);
+  	box-shadow: 0 0 1px transparent;
+	webkit-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+ 	webkit-transition-property: box-shadow;
+ 	transition-property: box-shadow;	
+}
+
+.fast_affiliate_widget_product:hover{
+	box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
+	font-weight: bold;
+}
+
+.fast_affiliate_widget_product a{
+	display: block;
+	vertical-align: middle;
+}
+
+.fast_affiliate_widget_left_column{
+	display: inline-block;
+	vertical-align: middle;
+	width: 40%;
+}
+
+.fast_affiliate_widget_left_column p{
+	display: inline-block;
+    margin-bottom:0px!important;
+}
+
+.fast_affiliate_widget_left_column p img{
+	display: inline-block;
+}
+
+.fast_affiliate_widget_middle_column{
+	display: inline-block;
+	vertical-align: middle;
+	width: 20%;
+}
+
+.fast_affiliate_widget_middle_column p{
+	display: inline-block;
+	margin-bottom:0px!important;
+}
+
+.fast_affiliate_widget_middle_column:hover{
+	font-weight: bold;
+}
+
+.fast_affiliate_widget_right_column {
+	display: inline-block;
+	vertical-align: middle;
+	width: 30%;
+}
+
+.fast_affiliate_widget_right_column p{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+ /**
+ * CSS of the widget2
+ */
+.fast_affiliate_widget2_product {
+	display: block;
+	vertical-align:middle;
+	text-align: center;
+	width: 100%;
+	box-sizing: border-box;
+	border-width:0px;
+	border-style:solid;
+	border-color:#f2f2f2;
+	background-color: #f9f9f9;
+	border-width: 1px;
+    border-radius: 4px;
+    -webkit-transform: perspective(1px) translateZ(0);
+  	transform: perspective(1px) translateZ(0);
+  	box-shadow: 0 0 1px transparent;
+	webkit-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+ 	webkit-transition-property: box-shadow;
+ 	transition-property: box-shadow;	
+}
+
+.fast_affiliate_widget2_product:hover {
+	box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
+	font-weight: bold;
+}
+
+.fast_affiliate_widget2_product a {
+	display: block;
+	vertical-align: middle;
+}
+
+.fast_affiliate_widget2_left_column {
+	display: inline-block;
+	vertical-align: middle;
+	width: 30%;
+}
+.fast_affiliate_widget2_double_left_column {
+	display: inline-block;
+	vertical-align: middle;
+	width: 50%;
+}
+.fast_affiliate_widget2_left_column p {
+	display: inline-block;
+    margin-bottom: 0px!important;
+}
+.fast_affiliate_widget2_double_left_column p {
+	display: inline-block;
+    margin-bottom: 0px!important;
+}
+.fast_affiliate_widget2_left_column p img {
+	display: inline-block;
+	max-height: 90px;
+	max-width: 90px;
+}
+
+.fast_affiliate_widget2_middle_column {
+	display: inline-block;
+	vertical-align: middle;
+	width: 20%;
+}
+
+.fast_affiliate_widget2_middle_column p {
+	display: inline-block;
+	margin-bottom:0px!important;
+}
+
+.fast_affiliate_widget2_middle_column:hover {
+	font-weight: bold;
+}
+
+.fast_affiliate_widget2_right_column {
+	display: inline-block;
+	vertical-align: middle;
+	width: 40%;
+}
+
+.fast_affiliate_widget2_right_column span {
+	display: block;
+	vertical-align: middle;
+	margin:auto;
+}
+
+.fast_affiliate_widget2_right_column img {
+	display: block;
+	vertical-align: middle;
+	margin:auto;
+	max-height: 30px;
+}
+
+/*
+#fast_affiliate_widget2_product_sticky.stick {
+  position: fixed;
+  top: 0;
+  margin-top: 10px;
+  z-index: 10000;
+}
+*/
+
+#program_name {
+    text-align: center;
+    color: #4cae4c;
+}
+
+.offer_price {
+    text-align: center;
+}
+
+

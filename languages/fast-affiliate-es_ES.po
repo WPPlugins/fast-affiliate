@@ -1,0 +1,341 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fast Affiliate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-02 12:58+0000\n"
+"PO-Revision-Date: 2017-05-02 13:00+0000\n"
+"Last-Translator: jdelao <j.delao@trencube.com>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: admin/fast-affiliate-post-metabox.php:56
+#: admin/fast-affiliate-post-metabox.php:85
+msgid "Shortcode of the announce"
+msgstr "Shortcode del anuncio"
+
+#: admin/fast-affiliate-post-metabox.php:56
+#: admin/fast-affiliate-post-metabox.php:85
+msgid "Copy in clipboard"
+msgstr "copiar al portapapeles "
+
+#: admin/fast-affiliate-post-metabox.php:379
+msgid "Quick link"
+msgstr "Enlace rápido"
+
+#: admin/fast-affiliate-post-metabox.php:405
+msgid "Quick links are not stock management"
+msgstr "Los enlaces rápidos no tienen gestión de stock"
+
+#: admin/fast-affiliate-post-metabox.php:406
+msgid "Quick link url"
+msgstr "Url de destino"
+
+#: admin/fast-affiliate-post-metabox.php:409
+msgid "Quick link name"
+msgstr "Nombre del enlace rápido"
+
+#: admin/fast-affiliate-post-metabox.php:412
+msgid "Program"
+msgstr "Programa"
+
+#: admin/fast-affiliate-post-metabox.php:421
+msgid "Add to post"
+msgstr "Añadir al post"
+
+#: includes/fast-affiliate-post.php:51 includes/fast-affiliate-post.php:92
+#: includes/fast-affiliate-post.php:164 includes/fast-affiliate-post.php:206
+#: includes/fast-affiliate-widget.php:68 includes/fast-affiliate-widget.php:92
+msgid "See Offer"
+msgstr "Ver oferta"
+
+#: admin/fast-affiliate-effiliation.php:51
+msgid "Effiliation parameters"
+msgstr "Parámetros Effiliation"
+
+#: admin/fast-affiliate-effiliation.php:59
+msgid "Effiliation API Key"
+msgstr "Api key effiliation"
+
+#: admin/fast-affiliate-effiliation.php:62 admin/fast-affiliate-cj.php:66
+#: admin/fast-affiliate-general-config.php:27
+#: admin/fast-affiliate-affilinet.php:79 admin/fast-affiliate-amazon.php:132
+#: admin/fast-affiliate-tradedoubler.php:56 admin/fast-affiliate-ebay.php:132
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: admin/fast-affiliate-effiliation.php:64
+#: admin/fast-affiliate-tradedoubler.php:53
+msgid "How to find this key ?"
+msgstr "¿Como encontrar esta clave?"
+
+#: admin/fast-affiliate-effiliation.php:69 admin/fast-affiliate-cj.php:70
+#: admin/fast-affiliate-affilinet.php:83 admin/fast-affiliate-amazon.php:136
+#: admin/fast-affiliate-tradedoubler.php:60 admin/fast-affiliate-ebay.php:136
+msgid "Programs found for this affiliate platform"
+msgstr "Programas encontrados en esta plataforma"
+
+#: admin/fast-affiliate-effiliation.php:80 admin/fast-affiliate-cj.php:79
+#: admin/fast-affiliate-amazon.php:146 admin/fast-affiliate-ebay.php:146
+msgid "Company"
+msgstr "Plataforma"
+
+#: admin/fast-affiliate-effiliation.php:80
+msgid "Name of the program"
+msgstr "Nombre del programa"
+
+#: admin/fast-affiliate-effiliation.php:80 admin/fast-affiliate-cj.php:79
+#: admin/fast-affiliate-affilinet.php:92 admin/fast-affiliate-amazon.php:146
+#: admin/fast-affiliate-tradedoubler.php:69 admin/fast-affiliate-ebay.php:146
+msgid "Logo"
+msgstr "Logo"
+
+#: admin/fast-affiliate-post-metabox.php:326
+msgid "Image"
+msgstr "Imagen"
+
+#: admin/fast-affiliate-post-metabox.php:327
+msgid "Product name"
+msgstr "Nombre del producto"
+
+#: admin/fast-affiliate-post-metabox.php:328
+msgid "Price"
+msgstr "Precio"
+
+#: admin/fast-affiliate-post-metabox.php:329 admin/fast-affiliate-stock.php:4
+#: admin/class-fast-affiliate-admin.php:134
+#: admin/class-fast-affiliate-admin.php:134
+msgid "Stock"
+msgstr "Stock"
+
+#: admin/fast-affiliate-post-metabox.php:340
+msgid "Yes"
+msgstr "Si"
+
+#: admin/fast-affiliate-post-metabox.php:343
+msgid "No"
+msgstr "No"
+
+#: admin/fast-affiliate-post-metabox.php:377
+msgid "Selected products"
+msgstr "Productos registrados"
+
+#: admin/fast-affiliate-post-metabox.php:378
+msgid "Search for products"
+msgstr "Buscar productos"
+
+#: admin/fast-affiliate-post-metabox.php:383
+msgid "Update"
+msgstr "Actualizar"
+
+#: admin/fast-affiliate-post-metabox.php:392
+msgid "Keyword"
+msgstr "Palabra clave"
+
+#: admin/fast-affiliate-post-metabox.php:394
+msgid "Find"
+msgstr "Buscar"
+
+#: admin/fast-affiliate-post-metabox.php:395
+msgid "Include in post"
+msgstr "Añadir al artículo"
+
+#: admin/fast-affiliate-cj.php:48
+msgid "CJ parameters"
+msgstr "Parámetros CJ"
+
+#: admin/fast-affiliate-cj.php:50
+msgid "Site id"
+msgstr "Site id"
+
+#: admin/fast-affiliate-cj.php:58
+msgid "Developper key"
+msgstr "Developper key"
+
+#: admin/fast-affiliate-cj.php:79 admin/fast-affiliate-affilinet.php:92
+#: admin/fast-affiliate-amazon.php:146 admin/fast-affiliate-tradedoubler.php:69
+#: admin/fast-affiliate-ebay.php:146
+msgid "Program name"
+msgstr "Nombre del programa"
+
+#: admin/fast-affiliate-general-config.php:12
+#: admin/class-fast-affiliate-admin.php:133
+#: admin/class-fast-affiliate-admin.php:133
+#: admin/class-fast-affiliate-admin.php:149
+msgid "Configuration"
+msgstr "Configuración"
+
+#: admin/fast-affiliate-general-config.php:16
+msgid "Show price"
+msgstr "Mostrar precio"
+
+#: admin/fast-affiliate-performance.php:4
+#: admin/class-fast-affiliate-admin.php:135
+#: admin/class-fast-affiliate-admin.php:135
+msgid "Performance"
+msgstr "Rendimiento"
+
+#: admin/fast-affiliate-performance.php:10
+msgid "Performance of your affiliates links"
+msgstr "Rendimiento de tus enlaces de afiliado"
+
+#: admin/fast-affiliate-performance.php:13 admin/fast-affiliate-stock.php:16
+msgid "Product"
+msgstr "Producto"
+
+#: admin/fast-affiliate-performance.php:13 admin/fast-affiliate-stock.php:16
+msgid "Post"
+msgstr "Artículo"
+
+#: admin/fast-affiliate-performance.php:13
+msgid "Origin"
+msgstr "Posición"
+
+#: admin/fast-affiliate-performance.php:13
+msgid "Number of clicks"
+msgstr "Número de clics"
+
+#: admin/fast-affiliate-performance.php:13
+msgid "Number of views"
+msgstr "Número de visitas"
+
+#: admin/fast-affiliate-performance.php:13
+msgid "Conversion rate %"
+msgstr "Conversión %"
+
+#: admin/fast-affiliate-performance.php:57
+msgid "No clicks"
+msgstr "Sin clics"
+
+#: admin/fast-affiliate-stock.php:13
+msgid "States of your affiliates links"
+msgstr "Estado de tus enlaces de afiliado"
+
+#: admin/fast-affiliate-stock.php:16
+msgid "Availability"
+msgstr "Disponibilidad"
+
+#: admin/fast-affiliate-stock.php:33 admin/fast-affiliate-stock.php:40
+msgid "Not Available"
+msgstr "No disponible"
+
+#: admin/fast-affiliate-stock.php:37
+msgid "Available"
+msgstr "Disponible"
+
+#: admin/class-fast-affiliate-admin.php:154
+msgid "general"
+msgstr "general"
+
+#: admin/class-fast-affiliate-admin.php:155
+msgid "effiliation"
+msgstr "effiliation"
+
+#: admin/class-fast-affiliate-admin.php:156
+msgid "amazon"
+msgstr "amazon"
+
+#: admin/class-fast-affiliate-admin.php:157
+msgid "ebay"
+msgstr "eBay"
+
+#: admin/class-fast-affiliate-admin.php:158
+msgid "tradedoubler"
+msgstr "tradedoubler"
+
+#: admin/class-fast-affiliate-admin.php:159
+msgid "affilinet"
+msgstr "affilinet"
+
+#: admin/class-fast-affiliate-admin.php:160
+msgid "cj"
+msgstr "cj"
+
+#: admin/fast-affiliate-affilinet.php:51
+msgid "Affilinet parameters"
+msgstr "Parámtros Affilinet"
+
+#: admin/fast-affiliate-affilinet.php:53
+msgid "Affilinet Publisher Password"
+msgstr "Affilinet Publisher Password"
+
+#: admin/fast-affiliate-affilinet.php:61
+msgid "Affilinet Products Password"
+msgstr "Affilinet Products Password"
+
+#: admin/fast-affiliate-affilinet.php:69
+msgid "Affilinet Publisher id"
+msgstr "Affilinet Publisher id"
+
+#: admin/fast-affiliate-amazon.php:53
+msgid "Amazon parameters"
+msgstr "Parámetros amazon"
+
+#: admin/fast-affiliate-amazon.php:55
+msgid "Amazon API key"
+msgstr "Amazon API key"
+
+#: admin/fast-affiliate-amazon.php:62
+msgid "How to find those keys ?"
+msgstr "¿Dónde encontrar estas claves?"
+
+#: admin/fast-affiliate-amazon.php:65
+msgid "Amazon Secret key"
+msgstr "Amazon Secret key"
+
+#: admin/fast-affiliate-amazon.php:73
+msgid "Amazon tracking id"
+msgstr "Amazon tracking id"
+
+#: admin/fast-affiliate-amazon.php:81
+msgid "Amazon Country"
+msgstr "Pais"
+
+#: admin/fast-affiliate-tradedoubler.php:44
+msgid "tradeDoubler parameters"
+msgstr "parámtros tradeDoubler"
+
+#: admin/fast-affiliate-tradedoubler.php:46
+msgid "TradeDoubler Products Token"
+msgstr "TradeDoubler Products Token"
+
+#: admin/fast-affiliate-ebay.php:53
+msgid "eBay parameters"
+msgstr "Parámetros eBay"
+
+#: admin/fast-affiliate-ebay.php:55
+msgid "eBay appId"
+msgstr "eBay appId"
+
+#: admin/fast-affiliate-ebay.php:65
+msgid "eBay Campaing Id"
+msgstr "eBay Campaing Id"
+
+#: admin/fast-affiliate-ebay.php:73
+msgid "eBay Custom Id"
+msgstr "eBay Custom Id"
+
+#: admin/fast-affiliate-ebay.php:81
+msgid "eBay Country"
+msgstr "eBay Country"
+
+#. Name of the plugin
+msgid "Fast Affiliate"
+msgstr "Fast affiliate"
+
+#. Description of the plugin
+msgid "Choose and place your affiliate links FAST !"
+msgstr "Encuentra y añade tu enlaces de afiliado rápido!"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://fast-affiliate.trencube.com"
+msgstr "http://fast-affiliate.trencube.com"
+
+#. Author of the plugin
+msgid "J. De La O & G. Lebret"
+msgstr "J. De La O & G. Lebret"

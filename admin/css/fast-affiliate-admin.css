@@ -1,0 +1,188 @@
+table.selected_product_table  {
+	border-collapse: collapse;
+}
+table.selected_product_table tr:nth-child(odd) td {
+	border-top : 1px solid #000000;
+}
+table.programs_table {
+	color: #000000;
+	border-width: 1px;
+	border-color: #f2f2f2;
+	background-color: #f9f9f9;
+	border-collapse: collapse;
+	width: 100%;
+	text-align:center;
+}
+
+table.programs_table th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	width: 80%;
+}
+
+table.programs_table.tradedoubler th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	width: 50%;
+}
+
+table.programs_table th:first-child{
+	width: 20%;
+}
+
+table.programs_table.tradedoubler th:first-child{
+	width: 80%;
+}
+
+table.programs_table td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+}
+
+.post_products {
+	overflow: auto;
+	height: 400px;
+	width: auto;
+	border: 1px;
+}
+
+.product_line td img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#fast_affiliate_tab.nav-tab-wrapper{
+	cursor: pointer;
+}
+
+#fast_affiliate_find_button {
+	color: #555;
+	border-color: #ccc;
+	background: #f7f7f7;
+	box-shadow: 0px 1px 0px #ccc;
+	font-size: 13px;
+	line-height: 26px;
+	height: 28px;
+	margin : 0px;
+	padding : 0px 10px 1px 10px;
+	cursor: pointer;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 3px;
+	text-align: center;
+}
+
+#fast_affiliate_update_saved{
+	color: #fff;
+	border-color: #0073aa;
+	background: #0085ba;
+	box-shadow: 0px 1px 0px #006789;
+	font-size: 13px;
+	line-height: 28px;
+	height: 30px;
+	margin : 0;
+	padding : 0px 12px 2px 12px;
+	cursor: pointer;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 3px;
+	text-align: center;
+	text-shadow: 0px -1px 1px #006799, 1px 0 1px #006789, 0px 1px 1px #006799, -1px 0px 1px #006999;
+}
+
+#fast_affiliate_include_in_post_button{
+	color: #fff;
+	border-color: #0073aa;
+	background: #0085ba;
+	box-shadow: 0px 1px 0px #006789;
+	font-size: 13px;
+	line-height: 28px;
+	height: 30px;
+	margin : 0;
+	padding : 0px 12px 2px 12px;
+	cursor: pointer;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 3px;
+	text-align: center;
+	text-shadow: 0px -1px 1px #006799, 1px 0 1px #006789, 0px 1px 1px #006799, -1px 0px 1px #006999;
+}
+
+#fast_affiliate_add_quick_link{
+	color: #fff;
+	border-color: #0073aa;
+	background: #0085ba;
+	box-shadow: 0px 1px 0px #006789;
+	font-size: 13px;
+	line-height: 28px;
+	height: 30px;
+	margin : 0;
+	padding : 0px 12px 2px 12px;
+	cursor: pointer;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 3px;
+	text-align: center;
+	text-shadow: 0px -1px 1px #006799, 1px 0 1px #006789, 0px 1px 1px #006799, -1px 0px 1px #006999;
+}
+
+#fast_affiliate_quick_link_text{
+	width: 80%;
+}
+
+
+table.tablesorter {
+	font-family:arial;
+	background-color: #CDCDCD;
+	margin:10px 0pt 15px;
+	font-size: 8pt;
+	width: 100%;
+	text-align: left;
+}
+
+table.tablesorter thead tr th, table.tablesorter tfoot tr th {
+	background-color: #e6EEEE;
+	border: 1px solid #FFF;
+	font-size: 8pt;
+	padding: 4px;
+}
+
+table.tablesorter thead tr .header {
+	background-image: url(../../includes/images/bg.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
+	cursor: pointer;
+}
+
+table.tablesorter tbody td {
+	color: #3D3D3D;
+	padding: 4px;
+	background-color: #FFF;
+	vertical-align: top;
+}
+
+table.tablesorter tbody tr.odd td {
+	background-color:#F0F0F6;
+}
+
+table.tablesorter thead tr .headerSortUp {
+	background-image: url(../../includes/images/asc.gif);
+}
+
+table.tablesorter thead tr .headerSortDown {
+	background-image: url(../../includes/images/desc.gif);
+}
+
+table.tablesorter thead tr .headerSortDown, table.tablesorter thead tr .headerSortUp {
+	background-color: #8dbdd8;
+}
+
+#program_name {
+    text-align: center;
+    color: #4cae4c;
+}
